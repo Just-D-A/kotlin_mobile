@@ -1,1 +1,1 @@
-# kotlin_mobile
+2 простых Android проекта на Kotlin
