@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="top_message">С Днём Рождения</string>
+    <string name="bot_text">By Shipa</string>
+</resources>
